@@ -1,5 +1,5 @@
 ![Build Status](https://img.shields.io/travis/tonymet/botkit-storage-datastore.svg)
-[![Coverage Status](https://coveralls.io/repos/github/fabito/botkit-storage-datastore/badge.svg?branch=master)](https://coveralls.io/github/fabito/botkit-storage-datastore?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/tonymet/botkit-storage-datastore/badge.svg?branch=master)](https://coveralls.io/github/tonymet/botkit-storage-datastore?branch=master)
 ![Downloads](https://img.shields.io/npm/dm/botkit-storage-datastore.svg)
 ![Downloads](https://img.shields.io/npm/dt/botkit-storage-datastore.svg)
 ![npm version](https://img.shields.io/npm/v/botkit-storage-datastore.svg)
